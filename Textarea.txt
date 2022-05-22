@@ -1,0 +1,1 @@
+Textarea : It is used as an input box for user.
