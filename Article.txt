@@ -1,0 +1,1 @@
+Article : The HTML <article> tag defines an independent self-contained content in a document, page, application or a site.
