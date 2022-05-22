@@ -1,0 +1,1 @@
+Section Tag : Section tag is used to divide up the webpage into some standalone sections of related content
